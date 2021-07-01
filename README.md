@@ -1,11 +1,11 @@
 # NirvanaClickerGame
 A clicker game that i made by using Java Swing. /  Current version of the game is 0.05 /
 
---New Version--
+---New Version---
 
 (no info)
 
---General progression--
+---General progression---
 
 You start with nothing but a shop called "Stone Shop", Stats tab and Settings tab. When you have enough stones to buy some upgrades, you will be able to gain even more stones.
 The game understands how "Strong" you are based on your income per click. When you have enough "Stones/Strength", the game will create new tabs. A tab called "Gem Shop" for 
@@ -14,7 +14,7 @@ play the game for a while, it will show a tab called "Prestige" for you to reset
 time you do one prestige, it gets harder to do the next one.
 
 
---Tab Explanations--
+---Tab Explanations---
 
 -> Stone shop: This is the first shop that you can purchase upgrades to increase your income.
   Every time you buy an upgrade, the specific upgrade that you purchased will be doubled in price.
@@ -41,7 +41,9 @@ time you do one prestige, it gets harder to do the next one.
     
     
 -> Stats: This is a tab that you can use to see your stats.
-   -Stats that can be seen_
+
+   -Stats that can be seen-
+   
    - Your income per click.
    - Your total number of clicks throughout the gameplay(this will not reset after you do a "prestige").
    /After you unlock the Greg Panel and purchase Greg/
