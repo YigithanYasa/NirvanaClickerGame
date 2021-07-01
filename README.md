@@ -10,7 +10,7 @@ A clicker game that i made by using Java Swing. /  Current version of the game i
 You start with nothing but a shop called "Stone Shop", Stats tab and Settings tab. When you have enough stones to buy some upgrades, you will be able to gain even more stones.
 The game understands how "Strong" you are based on your income per click. When you have enough "Stones/Strength", the game will create new tabs. A tab called "Gem Shop" for 
 advanced upgrades and "Gem conversion", A tab called "Lucky Box" for you to test you luck, and another tab called "Greg Panel" for you to get boosts and auto mining. After you
-play the game for a while, the game will show a tab called "Pretige" for you to reset your progress while upgrading your multipliers. The game goes on like this forever. Every
+play the game for a while, it will show a tab called "Prestige" for you to reset your progress while upgrading your multipliers. The game goes on like this forever. Every
 time you do one prestige, it gets harder to do the next one.
 
 
