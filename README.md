@@ -46,6 +46,7 @@ time you do one prestige, it gets harder to do the next one.
    
    - Your income per click.
    - Your total number of clicks throughout the gameplay(this will not reset after you do a "prestige").
+   
    /After you unlock the Greg Panel and purchase Greg/
    - Greg's income per click.
    - Greg's total amount of mined stones.
