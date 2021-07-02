@@ -61,7 +61,7 @@ time you do one prestige, it gets harder to do the next one.
   
   
 -> Prestige: This is a tab that you can use to increase your overall efficency by adding +1 multiplier to every upgrade.
-   If you do a prestige, you will lose your progress(for ex: Total Stones, Total Gems, Eery upgrade that you purchaased until then, 
+   If you do a prestige, you will lose your progress(for ex: Total Stones, Total Gems, Every upgrade that you purchaased until then, 
    Every boost and purchase about greg). Prestige will appear iitially when you have +4 Million Stone income per click. This number will
    be increased by 1.5X every time you do prestige.
    
