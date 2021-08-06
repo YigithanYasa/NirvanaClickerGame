@@ -2,10 +2,13 @@
 
 THIS IS THE CODE VERSION OF IT.
 THERE IS AN EXE FILE IN A DIFFERENT REPO.
+IF YOU WANT TO DOWNOAD IT, HERE IS THE GITHUB LINK:
+https://github.com/YigithanYasa/NIRVANA_CLICKER_GAME_EXE
 
 A clicker game that i made by using Java Swing. /  Current version of the game is 0.05 /
 
 ---New Version---
+
 OUTDATED
 (no info)
 
