@@ -1,8 +1,12 @@
 # NirvanaClickerGame
+
+THIS IS THE CODE VERSION OF IT.
+THERE IS AN EXE FILE IN A DIFFERENT REPO.
+
 A clicker game that i made by using Java Swing. /  Current version of the game is 0.05 /
 
 ---New Version---
-
+OUTDATED
 (no info)
 
 ---General progression---
